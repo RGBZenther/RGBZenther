@@ -1069,3 +1069,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.02-03.26.12:850][  0]LogAssetRegistry: Asset discovery search completed in 13.5232 seconds
 [2021.06.02-03.26.12:851][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2021.06.02-03.26.13:012][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.02-03.51.39:262][164]LogActorFactory: Actor Factory created Cube
+[2021.06.02-03.51.43:460][628]LogActorFactory: Actor Factory created Cube
+[2021.06.02-03.52.09:443][475]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.02-03.52.09:468][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.06.02-03.52.09:502][475]LogSavePackage: Moving '../../../../../../Users/Braxton Nace/OneDrive/Documents/GitHub/RGBZenther/MyProject2/Saved/ThirdPersonExampleMapEF26E3D04D34C869387ACDBDE3BFD8D3.tmp' to '../../../../../../Users/Braxton Nace/OneDrive/Documents/GitHub/RGBZenther/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.02-03.52.09:685][475]LogSavePackage: Moving '../../../../../../Users/Braxton Nace/OneDrive/Documents/GitHub/RGBZenther/MyProject2/Saved/ThirdPersonExampleMap_BuiltData9EEE91034615695821C7DAAAB653DB3D.tmp' to '../../../../../../Users/Braxton Nace/OneDrive/Documents/GitHub/RGBZenther/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.06.02-03.52.09:696][475]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.02-03.52.09:697][475]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.06.02-03.52.09:697][475]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
